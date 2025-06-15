@@ -90,7 +90,7 @@ This dataset contains 377 sentences collected from 5 speakers of the Kasavakan d
 | XVUA      | other – Verb – Undergoer – Actor                              |
 
 
-### Columns: Actor_Type, Undergoer_Type, Beneficiary_Type, Location_Type, Poss_Type, Theme_Type
+### Columns: Actor_Type, Undergoer_Type, Beneficiary_Type, Location_Type, Poss_Type (Possessor Type), Theme_Type
 
 | Value       | Meaning                      |
 |-------------|------------------------------|
@@ -102,7 +102,7 @@ This dataset contains 377 sentences collected from 5 speakers of the Kasavakan d
 | n/a         | Not applicable               |
 
 
-### Columns: Actor_Case, Undergoer_Case, Beneficiary_Case, Location_Case, Poss_Case, Theme_Case
+### Columns: Actor_Case, Undergoer_Case, Beneficiary_Case, Location_Case, Poss_Case (Possessor Case), Theme_Case
 
 | Value | Meaning           |
 |--------|-------------------|
