@@ -1,0 +1,378 @@
+Sentence	Translation	Speaker	Rating	Ambiguity	Voice	Topicalized	Order	Actor_Type	Actor_Case	Undergoer_Type	Undergoer_Case	Beneficiary_Type	Beneficiary_Case	Location_Type	Location_Case	Poss_Type	Poss_Case	Theme_Type	Theme_Case	Rating_str
+idu na unan tu karacaw na suwan. 	The snake bit the dog. 	2	1	A-U	PF	actor	AVU	common_def	NOM	common_def	NOM									Elicited
+idu na suwan kikarac kana unan. 	The dog was bitten by the snake.	2	1	A-U	PASS	undergoer	UVA	common_def	OBL	common_def	NOM									Elicited
+idu na unan tu karacaw i ina. 	The snake bit the mother. 	2	1	none	PF	actor	AVU	common_def	NOM	prsn_sg	NOM									Elicited
+idu na unan tu karacaw nadu na ina. 	The snake bit one of the mothers. 	2	1	none	PF	actor	AVU	common_def	NOM	prsn_pl	NOM									Elicited
+idu na unan tu karacaw nadu (na?) papiya. 	The snake bit them all. 	2	2	none	PF	actor	AVU	common_def	NOM	prsn_pl	NOM									Accepted
+i nani tu verayay i Pusang kana kavang. 	My mom gave the clothes to Pusang. 	2	1	A-B	LF	actor	AVBU	prsn_sg	NOM	common_def	OBL	prsn_sg	NOM							Elicited
+i nani tu verayay a kavang kani Pusang di Umang. 	My mom gave clothes to Pusang and Umang. 	2	1	A-B	LF	actor	AVUB	prsn_sg	NOM	common_indf	NOM	prsn_sg	OBL							Elicited
+i nani tu verayay na kavang kani Pusang di Umang. 	My mom gave the clothes to Pusang and Umang. 	2	1	A-B	LF	actor	AVUB	prsn_sg	NOM	common_def	NOM	prsn_sg	OBL							Elicited
+i ina tu verayay kana lralrak na kavang. 	The mother gave the clothes to the children.	2	1	A-B	LF	actor	AVBU	prsn_sg	NOM	common_def	NOM	common_def	OBL							Elicited
+i ina tu verayay kana lralrak a kavang. 	The mother gave the clothes to the children.	2	1	A-B	LF	actor	AVBU	prsn_sg	NOM	common_indf	NOM	common_def	OBL							Elicited
+kitenged kana sinsi. 	He was beaten by the teacher. 	2	1	none	PASS	none	VA	prsn_sg	OBL											Elicited
+tu tengeday i ina. 	He beats the mother. 	2	1	A-U	LF	none	VU			prsn_sg	NOM									Elicited
+tu tengeday i ina. 	He was beaten by the mother.	2	2	A-U	LF	none	VA	prsn_sg	NOM											Accepted
+i nani sahar kanidu na alrak. 	My mother loves her child.	2	1	A-U	AF	actor	AVU	prsn_sg	NOM	common_def	OBL									Elicited
+idu na alrak sahar katu/kanatu taina. 	This child loves his mother. 	2	1	A-U	AF	actor	AVU	common_def	NOM	common_def	OBL									Elicited
+nadu na taina sahar kanatu (na) lralrak. 	Those mothers love their children. 	2	1	A-U	AF	actor	AVU	common_def	NOM	common_def	OBL									Elicited
+i mulri adi sahar kanidu na suwan. 	The grandfather does not like that dog. 	2	1	A-U	AF	actor	AVU	prsn_sg	NOM	common_def	OBL									Elicited
+i Umang tu takisaw i Pusang.	Umang killed Pusang.	2	1	A-U	PF	actor	AVU	prsn_sg	NOM	prsn_sg	NOM									Elicited
+tu takisaw i Pusang i Umang. 	Pusang killed Umang.	2	3	A-U	PF	none	VAU	prsn_sg	NOM	prsn_sg	NOM									Rejected
+venalis i Pusang tu takisaw i Umang. 	Pusang killed Umang for revenge. 	2	1	A-U	PF	actor	AVU	prsn_sg	NOM	prsn_sg	NOM									Elicited
+i Umang mu, tu takisaw i Lutan di Pusang. 	Umang killed Lutan and Pusang. 	2	1	A-U	PF	actor	AVU	prsn_sg	NOM	prsn_sg	NOM									Elicited
+i Umang mu, tu takisaw kani Lutan di Pusang. 	Umang killed Lutan and Pusang. 	2	2	A-U	PF	actor	AVU	prsn_sg	NOM	prsn_sg	OBL									Accepted
+tu takisaw i Lutan di Pusang i Umang. 	Umang killed Lutan and Pusang. 	2	3	A-U	PF	none	VUA	prsn_sg	NOM	prsn_sg	NOM									Rejected
+tu takisaw i Umang kani Lutan di Pusang. 	Umang killed Lutan and Pusang. 	2	2	A-U	PF	none	VAU	prsn_sg	NOM	prsn_sg	OBL									Accepted
+kitakis i Pusang kani Umang. 	Pusang was killed by Umang. 	2	2	A-U	PASS	none	VUA	prsn_sg	OBL	prsn_sg	NOM									Accepted
+i Umang mu, tu takisaw idu na suwan.	Umang killed that dog. 	2	1	none	PF	actor	AVU	prsn_sg	NOM	common_def	NOM									Elicited
+tu takisaw idu na suwan i Umang.	Umang killed that dog. 	2	2	none	PF	none	VUA	prsn_sg	NOM	common_def	NOM									Accepted
+tu takisaw i Umang idu na suwan.	Umang killed that dog. 	2	2	none	PF	none	VAU	prsn_sg	NOM	common_def	NOM									Accepted
+idu na suwan tu takisaw i Umang.	Umang killed that dog. 	2	1	none	PF	undergoer	UVA	prsn_sg	NOM	common_def	NOM									Elicited
+tu pinacayaw i Umang kanidu na suwan di ngiyaw. 	Umang killed (by beating) that dog and that cat. 	2	1	none	PF	none	VAU	prsn_sg	NOM	common_def	NOM									Elicited
+tu karacaw idu na suwan i Umang palru kana minacay. 	The dog bit Umang to death. 	2	1	none	PF	none	VAU	common_def	NOM	prsn_sg	NOM									Elicited
+tu karacaw idu na suwan kani Umang palru kana minacay. 	The dog bit Umang to death. 	2	2	none	PF	none	VAU	common_def	NOM	prsn_sg	OBL									Accepted
+nadu na suwan (mu,) tu pinacayaw i Umang.	Those dogs were beaten to death by Umang.  	2	1	none	PF	undergoer	UVA	prsn_sg	NOM	common_def	NOM									Elicited
+tu pinacayaw nadu na suwan i Umang.	Those dogs were beaten to death by Umang. 	2	1	none	PF	none	VUA	prsn_sg	NOM	common_def	NOM									Elicited
+i Umang mu, tu pinacayaw nadu na suwan.	Those dogs were beaten to death by Umang. 	2	2	none	PF	actor	AVU	prsn_sg	NOM	common_def	NOM									Accepted
+cemakaw a paisu i Umang. 	Umang stole money. 	2	1	none	PF	none	VUA	prsn_sg	NOM	common_indf	NOM									Elicited
+i Umang mu, cemakaw a paisu. 	Umang stole money. 	2	1	none	PF	actor	AVU	prsn_sg	NOM	common_indf	NOM									Elicited
+tu cakawaw tu paisu i Umang. 	They stole Umang's money. 	2	1	none	PF-UPOSS	none	VPdP			possessed						prsn_sg	NOM			Elicited
+idu na suwan mu, tu kedengaw idu na dukap.	"The dog stole the slippers. (lit. ""The dog pulled the slippers away."")"	2	1	none	PF	actor	AVU	common_def	NOM	common_def	NOM									Elicited
+tu kedengaw idu na dukap idu na suwan. 	"The dog stole the slippers. (lit. ""The dog pulled the slippers away."")"	2	2	none	PF	none	VUA	common_def	NOM	common_def	NOM									Accepted
+tu kedengaw idu na suwan idu na dukap. 	"The dog stole the slippers. (lit. ""The dog pulled the slippers away."")"	2	3	none	PF	none	VAU	common_def	NOM	common_def	NOM									Rejected
+na unan tu karacaw na suwan. 	The snake bit the dog. 	3	1	A-U	PF	actor	AVU	common_def	NOM	common_def	NOM									Elicited
+nina unan tu karacaw na suwan. 	The snake bit the dog. 	3	3	A-U	PF	actor	AVU	common_def	GEN	common_def	NOM									Rejected
+tu karacaw [idu na]/na suwan na unan. 	The snake bit the dog. 	3	3	A-U	PF	none	VUA	common_def	NOM	common_def	NOM									Rejected
+tu karacaw [idu na]/na suwan nina unan. 	The snake bit the dog. 	3	3	A-U	PF	none	VUA	common_def	GEN	common_def	NOM									Rejected
+na suwan tu karacaw na unan. 	The dog bit the snake.	3	1	A-U	PF	actor	AVU	common_def	NOM	common_def	NOM									Elicited
+kana suwan tu karacaw na unan. 	The dog bit the snake.	3	3	A-U	PF	actor	AVU	common_def	OBL	common_def	NOM									Rejected
+ini na suwan kikarac kana unan. 	The dog was bitten by the snake.	3	1	A-U	PASS	undergoer	UVA	common_def	OBL	common_def	NOM									Elicited
+ini na suwan kikarac da unan. 	The dog was bitten by the snake.	3	2	A-U	PASS	undergoer	UVA	common_indf	OBL	common_def	NOM									Accepted
+ini na suwan kikarac na unan. 	The dog was bitten by the snake.	3	3	A-U	PASS	undergoer	UVA	common_def	NOM	common_def	NOM									Rejected
+i taina (mu,) kikarac kana unan. 	The mother was bitten by the snake. 	3	1	none	PASS	undergoer	UVA	common_def	OBL	prsn_sg	NOM									Elicited
+i taina (mu,) kikarac da unan. 	The mother was bitten by the snake.	3	1	none	PASS	undergoer	UVA	common_indf	OBL	prsn_sg	NOM									Elicited
+kikarac i taina kana unan. 	The mother was bitten by the snake.	3	2	none	PASS	none	VUA	common_def	OBL	prsn_sg	NOM									Accepted
+kikarac i taina da unan. 	The mother was bitten by the snake.	3	2	none	PASS	none	VUA	common_indf	OBL	prsn_sg	NOM									Accepted
+kikarac kana unan i taina. 	The mother was bitten by the snake.	3	3	none	PASS	none	VAU	common_def	OBL	prsn_sg	NOM									Rejected
+kikarac da unan i taina. 	The mother was bitten by the snake.	3	3	none	PASS	none	VAU	common_indf	OBL	prsn_sg	NOM									Rejected
+i taina tu veranay na kavang kanani na lralrak.  	The mother gave the clothes to the children. 	3	1	A-B	LF	actor	AVUB	prsn_sg	NOM	common_def	NOM	common_def	OBL							Elicited
+ni taina tu veranay na kavang kanani na lralrak.  	The mother gave the clothes to the children. 	3	3	A-B	LF	actor	AVUB	prsn_sg	GEN	common_def	NOM	common_def	OBL							Rejected
+tu veranay na kavang kanani na lralrak i taina. 	The mother gave the clothes to the children. 	3	2	A-B	LF	none	VUBA	prsn_sg	NOM	common_def	NOM	common_def	OBL							Accepted
+tu veranay i taina na kavang kanani na lralrak.  	The mother gave the clothes to the children. 	3	2	A-B	LF	none	VAUB	prsn_sg	NOM	common_def	NOM	common_def	OBL							Accepted
+tu veranay na kavang i taina kanani na lralrak.  	The mother gave the clothes to the children. 	3	3	A-B	LF	none	VUAB	prsn_sg	NOM	common_def	NOM	common_def	OBL							Rejected
+na lralrak tu veranay kani taina na kavang.   	The children give the clothes to the mother. 	3	1	A-B	LF	actor	AVBU	common_def	NOM	common_def	NOM	prsn_sg	OBL							Elicited
+na lralrak tu veranay na kavang kani taina. 	The children give the clothes to the mother. 	3	2	A-B	LF	actor	AVUB	common_def	NOM	common_def	NOM	prsn_sg	OBL							Accepted
+kana lralrak tu veranay na kavang kani taina. 	The children give the clothes to the mother. 	3	3	A-B	LF	actor	AVUB	common_def	OBL	common_def	NOM	prsn_sg	OBL							Rejected
+na lralrak tu veranay na kavang i taina. 	The children give the clothes to the mother. 	3	1	A-B	LF	actor	AVUB	common_def	NOM	common_def	NOM	prsn_sg	NOM							Elicited
+i Pusang (mu,) kitenged kana sinsi. 	Pusang was beaten by the teacher. 	3	1	A-U	PASS	undergoer	UVA	common_def	OBL	prsn_sg	NOM									Elicited
+kitenged i Pusang kana sinsi. 	Pusang was beaten by the teacher. 	3	1	A-U	PASS	none	VUA	common_def	OBL	prsn_sg	NOM									Elicited
+i Pusang tu tengeday na sinsi. 	Pusang beat the teacher. 	3	2	A-U	LF	actor	AVU	prsn_sg	NOM	common_def	NOM									Accepted
+tu tengeday i Pusang na sinsi.	Pusang beat the teacher. 	3	3	A-U	LF	none	VAU	prsn_sg	NOM	common_def	NOM									Rejected
+temenged i Pusang kani Umang. 	Pusang beat Umang. 	3	1	A-U	AF	none	VAU	prsn_sg	NOM	prsn_sg	OBL									Elicited
+i Pusang temenged kani Umang. 	Pusang beat Umang. 	3	1	A-U	AF	actor	AVU	prsn_sg	NOM	prsn_sg	OBL									Elicited
+kitenged i Umang kani Pusang. 	Umang was beaten by Pusang. 	3	2	A-U	PASS	none	VUA	prsn_sg	OBL	prsn_sg	NOM									Accepted
+tu tengeday i Pusang i Umang. 	Umang was beaten by Pusang. 	3	3	A-U	LF	none	VAU	prsn_sg	NOM	prsn_sg	NOM									Rejected
+tu tengeday i Umang ni Pusang.	Umang was beaten by Pusang. 	3	3	A-U	LF	none	VUA	prsn_sg	GEN	prsn_sg	NOM									Rejected
+tu tengeday i Umang kani Pusang.	Umang was beaten by Pusang. 	3	3	A-U	LF	undergoer	VUA	prsn_sg	OBL	prsn_sg	NOM									Rejected
+i Umang kitenged kani Pusang. 	Pusang beat Umang. 	3	1	A-U	PASS	undergoer	AVU	prsn_sg	OBL	prsn_sg	NOM									Elicited
+i Pusang tu tengeday i Umang. 	Pusang beat Umang. 	3	2	A-U	LF	actor	AVU	prsn_sg	NOM	prsn_sg	NOM									Accepted
+kitenged i Pusang kani Umang. 	Pusang was beaten by Umang. 	3	2	A-U	PASS	none	VUA	prsn_sg	OBL	prsn_sg	NOM									Accepted
+i Pusang maranger patakesi kani Umang (mukuwa) i kungkuwan. 	Pusang makes Umang go to school to study. 	3	1	A-U	AF	actor	AVVUL	prsn_sg	NOM	prsn_sg	OBL			loc	LOC					Elicited
+i Pusang tu adayaw i Umang mukuwa kani Lutan. 	Pusang takes Umang to Lutan. 	3	1	A-U-L	PF	actor	AVUVL	prsn_sg	NOM	prsn_sg	NOM			prsn_sg	OBL					Elicited
+tu adayaw i Pusang i Umang mukuwa kani Lutan.	Pusang takes Umang to Lutan. 	3	3	A-U-L	PF	none	VAUVL	prsn_sg	NOM	prsn_sg	NOM			prsn_sg	OBL					Rejected
+tu adayaw i Umang mukuwa kani Lutan i Pusang. 	Pusang takes Umang to Lutan. 	3	3	A-U-L	PF	none	VUVLA	prsn_sg	NOM	prsn_sg	NOM			prsn_sg	OBL					Rejected
+i Pusang (mu,) panadam kani Umang pakakawang/unting kana paliding. 	Pusang teaches Umang how to drive a car. 	3	1	A-U	AF	actor	AVUX	prsn_sg	NOM	prsn_sg	OBL									Elicited
+na unan tu karacaw na suwan. 	The snake bit the dog. 	5	1	A-U	PF	actor	AVU	common_def	NOM	common_def	NOM									Elicited
+tu karacaw na unan na suwan. 	The snake bit the dog. 	5	1	A-U	PF	none	VAU	common_def	NOM	common_def	NOM									Elicited
+tu karacaw na unan kana suwan. 	The dog bit the snake.	5	1	A-U	PF	none	VUA	common_def	OBL	common_def	NOM									Elicited
+tu karacaw na unan nina suwan.	The dog bit the snake.	5	3	A-U	PF	none	VUA	common_def	GEN	common_def	NOM									Rejected
+tu karacaw idu na unan na suwan. 	The dog bit the snake.	5	2	A-U	PF	none	VUA	common_def	NOM	common_def	NOM									Accepted
+tu karacaw na unan idu na suwan. 	The dog bit the snake.	5	1	A-U	PF	none	VUA	common_def	NOM	common_def	NOM									Elicited
+kikarac kana unan i nani. 	The mother was bitten by the snake. 	5	1	none	PASS	none	VAU	common_def	OBL	prsn_sg	NOM									Elicited
+i Pusang minada kani Umang uwa/mukuwa kani Lutan.  	Pusang takes Umang to Lutan. 	5	1	A-U-L	AF	actor	AVUVL	prsn_sg	NOM	prsn_sg	OBL			prsn_sg	OBL					Elicited
+i Umang cemima' kantu/kanantu valray ni Pusang. 	Umang bought Pusang's book. 	5	1	A-P	AF-UPOSS	actor	AVPdP	prsn_sg	NOM	possessed	OBL					prsn_sg	GEN			Elicited
+i Umang cemima' kantu/kanantu valray kani Pusang. 	Umang bought Pusang's book. 	5	1	A-P	AF-UPOSS	actor	AVPdP	prsn_sg	NOM	possessed	OBL					prsn_sg	OBL			Elicited
+i Umang cemima' tu valray ni Pusang. 	Umang bought Pusang's book. 	5	2	A-P	AF-UPOSS	actor	AVPdP	prsn_sg	NOM	possessed						prsn_sg	GEN			Accepted
+i Umang cemima' tu valray kani Pusang. 	Umang bought Pusang's book. 	5	2	A-P	AF-UPOSS	actor	AVPdP	prsn_sg	NOM	possessed						prsn_sg	OBL			Accepted
+i Umang cemima' tu valray i Pusang. 	Umang bought Pusang's book. 	5	3	A-P	AF-UPOSS	actor	AVPdP	prsn_sg	NOM	possessed						prsn_sg	NOM			Rejected
+tu kaselruaw i Pusang kani Umang. 	Pusang scolds Umang.	5	1	A-U	PF	none	VAU	prsn_sg	NOM	prsn_sg	OBL									Elicited
+tu kaselruaw ni Pusang kani Umang. 	Pusang scolds Umang.	5	3	A-U	PF	none	VAU	prsn_sg	GEN	prsn_sg	OBL									Rejected
+tu kaselruaw i Pusang ni Umang. 	Pusang scolds Umang.	5	3	A-U	PF	none	VAU	prsn_sg	NOM	prsn_sg	GEN									Rejected
+i Pusang tu kaselruaw kani Umang. 	Pusang scolds Umang.	5	1	A-U	PF	actor	AVU	prsn_sg	NOM	prsn_sg	OBL									Elicited
+tu kaselruaw kani Umang i Pusang.	Pusang scolds Umang.	5	2	A-U	PF	none	VUA	prsn_sg	NOM	prsn_sg	OBL									Accepted
+i ina (mu,) tu kaselruaw na alrak. 	The mother scolds the child. 	5	1	A-U	PF	actor	AVU	prsn_sg	NOM	common_def	NOM									Elicited
+vulay tu talupung ni Simuy. 	Simuy's hat is pretty. 	5	1	none	n/a-POSS	none	PrPdP									prsn_sg	GEN			Elicited
+vulay tu talupung i Simuy. 	Simuy's hat is pretty. 	5	2	none	n/a-POSS	none	PrPdP									prsn_sg	NOM			Accepted
+vulay tu talupung kani Simuy. 	Simuy's hat is pretty. 	5	2	none	n/a-POSS	none	PrPdP									prsn_sg	OBL			Accepted
+tu paliding na Simuy maidang. 	Simuy et al.'s car is big. 	5	1	none	n/a-POSS	possessor-possessed	PdPPr									prsn_pl	NOM			Elicited
+tu paliding kana Simuy maidang. 	Simuy et al.'s car is big. 	5	2	none	n/a-POSS	possessor-possessed	PdPPr									prsn_pl	OBL			Accepted
+tu sa'ad na kawi tatelraw. 	The branches of the tree are long. 	5	1	none	n/a-POSS	possessor-possessed	PdPPr									common_def	NOM			Elicited
+tatelraw tu sa'ad na kawi. 	The branches of the tree are long. 	5	1	none	n/a-POSS	none	PrPdP									common_def	NOM			Elicited
+tatelraw tu sa'ad kana kawi. 	The branches of the tree are long. 	5	2	none	n/a-POSS	none	PrPdP									common_def	OBL			Accepted
+tatelraw tu sa'ad a kawi. 	The branches of the tree are long. 	5	2	none	n/a-POSS	none	PrPdP									common_indf	NOM			Accepted
+tatelraw tu sa'ad da kawi. 	The branches of the tree are long. 	5	2	none	n/a-POSS	none	PrPdP									common_indf	OBL			Accepted
+tatelraw tu sa'ad nina kawi. 	The branches of the tree are long. 	5	3	none	n/a-POSS	none	PrPdP									common_def	GEN			Rejected
+i Pusang tu verayay na liwu kani Lutan. 	Pusang gives the gift to Lutan. 	5	1	A-B	LF	actor	AVUB	prsn_sg	NOM	common_def	NOM	prsn_sg	OBL							Elicited
+ni Pusang tu verayay na liwu kani Lutan. 	Pusang gives the gift to Lutan. 	5	3	A-B	LF	actor	AVUB	prsn_sg	GEN	common_def	NOM	prsn_sg	OBL							Rejected
+tu verayay na liwu kani Lutan ni Pusang. 	Pusang gives the gift to Lutan. 	5	1	A-B	LF	none	VUBA	prsn_sg	GEN	common_def	NOM	prsn_sg	OBL							Elicited
+tu verayay na liwu kani Lutan i Pusang. 	Pusang gives the gift to Lutan. 	5	2	A-B	LF	none	VUBA	prsn_sg	NOM	common_def	NOM	prsn_sg	OBL							Accepted
+tu paliding ni Umang (mu,) tu verayanay kani Lutan i Pusang. 	Pusang gifts Umang's car to Lutan. 	5	1	A-B-P	CF-UPOSS	undergoer	PdPVBA	prsn_sg	NOM	possessed		prsn_sg	OBL			prsn_sg	GEN			Elicited
+tu paliding i Umang (mu,) tu verayanay kani Lutan i Pusang. 	Pusang gifts Umang's car to Lutan. 	5	2	A-B-P	CF-UPOSS	undergoer	PdPVBA	prsn_sg	NOM	possessed		prsn_sg	OBL			prsn_sg	NOM			Accepted
+tu paliding kani Umang (mu,) tu verayanay kani Lutan i Pusang. 	Pusang gifts Umang's car to Lutan. 	5	2	A-B-P	CF-UPOSS	undergoer	PdPVBA	prsn_sg	NOM	possessed		prsn_sg	OBL			prsn_sg	OBL			Accepted
+tu paliding i Umang tu verayanay i Pusang kani Lutan	Pusang gifts Umang's car to Lutan. 	5	3	A-B-P	CF-UPOSS	undergoer	PdPVAB	prsn_sg	NOM	possessed		prsn_sg	OBL			prsn_sg	NOM			Rejected
+tu paliding kani Umang tu verayanay i Pusang kani Lutan	Pusang gifts Umang's car to Lutan. 	5	3	A-B-P	CF-UPOSS	undergoer	PdPVAB	prsn_sg	NOM	possessed		prsn_sg	OBL			prsn_sg	OBL			Rejected
+tu paliding ni Umang tu verayanay i Pusang kani Lutan	Pusang gifts Umang's car to Lutan. 	5	3	A-B-P	CF-UPOSS	undergoer	PdPVAB	prsn_sg	NOM	possessed		prsn_sg	OBL			prsn_sg	GEN			Rejected
+i Pusang mu, tu verayanay tu paliding ni Umang kani Lutan. 	Pusang gifts Umang's car to Lutan. 	5	1	A-B-P	CF-UPOSS	actor	AVPdPB	prsn_sg	NOM	possessed		prsn_sg	OBL			prsn_sg	GEN			Elicited
+tu paliding kani Umang tu verayanay kani Lutan ni Pusang. 	Pusang gifts Umang's car to Lutan. 	5	2	A-B-P	CF-UPOSS	undergoer	PdPVBA	prsn_sg	GEN	possessed		prsn_sg	OBL			prsn_sg	OBL			Accepted
+tu paliding ni Umang tu verayanay kani Lutan ni Pusang. 	Pusang gifts Umang's car to Lutan. 	5	2	A-B-P	CF-UPOSS	undergoer	PdPVBA	prsn_sg	GEN	possessed		prsn_sg	OBL			prsn_sg	GEN			Accepted
+tu paliding ni Umang (mu,) tu verayanay ni Lutan i Pusang. 	Pusang gifts Umang's car to Lutan. 	5	3	A-B-P	CF-UPOSS	undergoer	PdPVBA	prsn_sg	NOM	possessed		prsn_sg	GEN			prsn_sg	GEN			Rejected
+i Pusang tu tengeday i Umang. 	Pusang beat Umang. 	5	2	A-U	LF	actor	AVU	prsn_sg	NOM	prsn_sg	NOM									Accepted
+tu tengeday i Umang ni Pusang. 	Pusang beat Umang. 	5	2	A-U	LF	none	VUA	prsn_sg	GEN	prsn_sg	NOM									Accepted
+tu tengeday i Umang i Pusang. 	Pusang beat Umang. 	5	3	A-U	LF	none	VUA	prsn_sg	NOM	prsn_sg	NOM									Rejected
+tu tengeday kani Umang i Pusang. 	Pusang beat Umang. 	5	2	A-U	LF	none	VUA	prsn_sg	NOM	prsn_sg	OBL									Accepted
+i Pusang tu tengeday na Umang. 	Pusang beat Umang et al. 	5	1	A-U	LF	actor	AVU	prsn_sg	NOM	prsn_pl	NOM									Elicited
+i Pusang tu tengeday kana Umang. 	Pusang beat Umang et al. 	5	3	A-U	LF	actor	AVU	prsn_sg	NOM	prsn_pl	OBL									Rejected
+tu kaselruaw i Umang kani Pusang.	Pusang scolds Umang.	5	2	A-U	PF	none	VUA	prsn_sg	OBL	prsn_sg	NOM									Accepted
+tu kaselruaw i Umang ni Pusang.	Pusang scolds Umang.	5	3	A-U	PF	none	VUA	prsn_sg	GEN	prsn_sg	NOM									Rejected
+tu kaselruaw i Umang kani Pusang.	Umang scolds Pusang.	5	2	A-U	PF	none	VAU	prsn_sg	NOM	prsn_sg	OBL									Accepted
+tu kaselruaw kani Pusang i Umang.	Umang scolds Pusang.	5	2	A-U	PF	none	VUA	prsn_sg	NOM	prsn_sg	OBL									Accepted
+tu kaselruaw ni Pusang i Umang.	Umang scolds Pusang.	5	3	A-U	PF	none	VUA	prsn_sg	NOM	prsn_sg	GEN									Rejected
+tu kaselruaw kani Pusang ni Umang.	Umang scolds Pusang.	5	2	A-U	PF	none	VUA	prsn_sg	GEN	prsn_sg	OBL									Accepted
+nantu disuya na Lutan 	Lutan et al.'s car. 	5	1	none	n/a-POSS	none	PdP									prsn_pl	NOM			Elicited
+nantu disuya kana Lutan 	Lutan et al.'s car. 	5	2	none	n/a-POSS	none	PdP									prsn_pl	OBL			Accepted
+na unan kemalac da suwan. 	The snake bit the dog. 	4	1	A-U	AF	actor	AVU	common_def	NOM	common_indf	OBL									Elicited
+na suwan kikarac kana unan. 	The dog was bitten by the snake. 	4	1	A-U	PASS	undergoer	UVA	common_def	OBL	common_def	NOM									Elicited
+tu karacaw na unan ini na suwan. 	This dog bit the snake. 	4	1	A-U	PF	none	VAU	common_def	NOM	common_def	NOM									Elicited
+kipuvari na vira'. 	The leaf is blown by the wind. 	4	1	none	PASS	none	VU			common_def	NOM									Elicited
+tu karacaw na unan na suwan. 	The dog bit the snake. 	4	3	A-U	PF	none	VUA	common_def	NOM	common_def	NOM									Rejected
+tu karacaw na suwan na unan. 	The dog bit the snake. 	4	3	A-U	PF	none	VAU	common_def	NOM	common_def	NOM									Rejected
+tu suwan i Pusang 	Pusang's dog	4	1	none	n/a-POSS	none	PdP									prsn_sg	NOM			Elicited
+tu suwan ni Pusang	Pusang's dog	4	2	none	n/a-POSS	none	PdP									prsn_sg	GEN			Accepted
+tu suwan kani Pusang	Pusang's dog	4	2	none	n/a-POSS	none	PdP									prsn_sg	OBL			Accepted
+tu suwan na Pusang	Pusang et al.'s dog	4	1	none	n/a-POSS	none	PdP									prsn_pl	NOM			Elicited
+tu suwan kana Pusang	Pusang et al.'s dog	4	2	none	n/a-POSS	none	PdP									prsn_pl	OBL			Accepted
+i Pusang tu tengeday i Umang. 	Pusang beat Umang. 	4	2	A-U	LF	actor	AVU	prsn_sg	NOM	prsn_sg	NOM									Accepted
+tu kaselruaw i Pusang kani Umang. 	Umang scolds Pusang.	4	2	A-U	PF	none	VUA	prsn_sg	OBL	prsn_sg	NOM									Accepted
+na sinsi tu paliding 	The teacher's car 	4	1	none	n/a-POSS	none	PPd									common_def	NOM			Elicited
+tu paliding na sinsi	The teacher's car 	4	2	none	n/a-POSS	none	PdP									common_def	NOM			Accepted
+tu paliding kana sinsi	The teacher's car 	4	2	none	n/a-POSS	none	PdP									common_def	OBL			Accepted
+tu paliding da sinsi	The teacher's car 	4	2	none	n/a-POSS	none	PdP									common_indf	OBL			Accepted
+na unan tu karacaw na suwan.	The snake bites the dog.	3	1	A-U	PF	actor	AVU	common_def	NOM	common_def	NOM									Elicited
+tu karacaw na unan ini na suwan.	The snake bites the dog.	3	1	A-U	PF	none	VAU	common_def	NOM	common_def	NOM									Elicited
+ini na suwan kikarac kana unan.	This dog was bitten by the snake.	3	1	A-U	PASS	undergoer	UVA	common_indf	OBL	common_def	NOM									Elicited
+i Pusang mu, maselru kani Umang.	Pusang scolds Umang.	3	1	A-U	AF	actor	AVU	prsn_sg	NOM	prsn_sg	OBL									Elicited
+tu kaselruaw i Pusang kani Umang.	Pusang scolds Umang.	3	2	A-U	PF	none	VAU	prsn_sg	NOM	prsn_sg	OBL									Accepted
+i Pusang tu adayaw i Umang mukuwa kani Lutan.	Pusang takes Umang to Lutan.	3	1	A-U-L	PF	actor	AVUVL	prsn_sg	NOM	prsn_sg	NOM			prsn_sg	OBL					Elicited
+i Lutan (mu), tu veranay na kavang kana lralrak.	Lutan gives the clothes to the children	3	1	A-B	LF	actor	AVUB	prsn_sg	NOM	common_def	NOM	common_def	OBL							Elicited
+tu veranay na kavang kana lralrak i Lutan.	Lutan gives the clothes to the children.	3	2	A-B	LF	none	VUBA	prsn_sg	NOM	common_def	NOM	common_def	OBL							Accepted
+tu veranay na kavang kana lralrak ni Lutan.	Lutan gives the clothes to the children.	3	3	A-B	LF	none	VUBA	prsn_sg	GEN	common_def	NOM	common_def	OBL							Rejected
+na Lutan (mu), tu veranay na kavang kana lralrak.	Lutan et al. give the clothes to the children.	3	1	A-B	LF	actor	AVUB	prsn_pl	NOM	common_def	NOM	common_def	OBL							Elicited
+kana Lutan (mu), tu veranay na kavang kana lralrak.	Lutan et al. give the clothes to the children.	3	3	A-B	LF	actor	AVUB	prsn_pl	OBL	common_def	NOM	common_def	OBL							Rejected
+nantu paliding i Lutan	Lutan’s car	3	1	none	n/a-POSS	none	PdP									prsn_sg	NOM			Elicited
+nantu paliding ni Lutan	Lutan’s car	3	2	none	n/a-POSS	none	PdP									prsn_sg	GEN			Accepted
+nantu paliding kani Lutan	Lutan’s car	3	2	none	n/a-POSS	none	PdP									prsn_sg	OBL			Accepted
+nantu paliding na Lutan	Lutan et al.’s car	3	1	none	n/a-POSS	none	PdP									prsn_pl	NOM			Elicited
+nantu paliding kana Lutan	Lutan et al.’s car	3	1	none	n/a-POSS	none	PdP									prsn_pl	OBL			Elicited
+ini na suwan tu tengisaw na cukap mukuwa i pacaran.	The dog takes the slippers outside.	3	1	none	PF	actor	AVUVL	common_def	NOM	common_def	NOM			loc	LOC					Elicited
+a suwan tu tengisaw na cukap mukuwa i pacaran.	The dog takes the slippers outside.	3	2	none	PF	actor	AVUVL	common_indf	NOM	common_def	NOM			loc	LOC					Accepted
+kitenged i Pusang kana sinsi.	Pusang is beaten by the teacher.	3	1	A-U	PASS	none	VUA	common_def	OBL	prsn_sg	NOM									Elicited
+kitenged i Pusang da sinsi.	Pusang is beaten by the teacher.	3	3	A-U	PASS	none	VUA	common_indf	OBL	prsn_sg	NOM									Rejected
+cuwalri (na dingki)!	Turn on the light!	3	1	none	LF	none	VU			common_def	NOM									Elicited
+nantu sidapan na idap mulremes lra.  	The broom's dustpan is missing. 	5	1	P-Pd	AF-APOSS	actor	PdPV	common_def	NOM							common_def	NOM			Elicited
+nantu sidapan kana idap mulremes lra.  	The broom's dustpan is missing. 	5	2	P-Pd	AF-APOSS	actor	PdPV	common_def	NOM							common_def	OBL			Accepted
+nantu sidapan a idap mulremes lra.  	The broom's dustpan is missing. 	5	3	P-Pd	AF-APOSS	actor	PdPV	common_def	NOM							common_indf	NOM			Rejected
+nantu sidapan da idap mulremes lra.  	The broom's dustpan is missing. 	5	3	P-Pd	AF-APOSS	actor	PdPV	common_def	NOM							common_indf	OBL			Rejected
+nantu sidapan nina idap mulremes lra.  	The broom's dustpan is missing. 	5	3	P-Pd	AF-APOSS	actor	PdPV	common_def	NOM							common_def	GEN			Rejected
+nantu sidapan na idap.	The dustpan belongs to the broom.	5	1	P-Pd	n/a-POSS	none	PdP	common_def	NOM							common_def	NOM			Elicited
+nantu sidapan a idap.	The dustpan belongs to a broom.	5	2	P-Pd	n/a-POSS	none	PdP	common_def	NOM							common_indf	NOM			Accepted
+nantu sidapan da idap.	The dustpan belongs to a broom.	5	2	P-Pd	n/a-POSS	none	PdP	common_def	NOM							common_indf	OBL			Accepted
+nantu sidapan kana idap.	The dustpan belongs to the broom.	5	2	P-Pd	n/a-POSS	none	PdP	common_def	NOM							common_def	OBL			Accepted
+nantu idap na sidapan mulremes lra.	The dustpan's broom is missing. 	5	1	P-Pd	n/a-POSS	actor	PdPPr	common_def	NOM							common_def	NOM			Elicited
+nantu idap kana sidapan mulremes lra.	The dustpan's broom is missing. 	5	2	P-Pd	n/a-POSS	actor	PdPPr	common_def	NOM							common_def	OBL			Accepted
+nantu idap nina sidapan mulremes lra.	The dustpan's broom is missing. 	5	3	P-Pd	n/a-POSS	actor	PdPPr	common_def	NOM							common_def	GEN			Rejected
+i Pusang tu kaselruaw i Umang. 	Pusang scolds Umang. 	5	1	A-U	PF	actor	AVU	prsn_sg	NOM	prsn_sg	NOM									Elicited
+i Pusang tu kaselruaw kani Umang. 	Pusang scolds Umang. 	5	2	A-U	PF	actor	AVU	prsn_sg	NOM	prsn_sg	OBL									Accepted
+tu kaselruaw i Umang ni Pusang. 	Pusang scolds Umang. 	5	2	A-U	PF	none	VUA	prsn_sg	GEN	prsn_sg	NOM									Accepted
+tu adayaw i Umang mukuwa kani Lutan ni Pusang. 	Pusang takes Umang to Lutan.	5	2	A-U-L	PF	none	VULA	prsn_sg	GEN	prsn_sg	NOM									Accepted
+duwa lra i Lutan? 	Has Lutan arrived? 	5	1	none	AF	none	VA	prsn_sg	NOM											Elicited
+tu verayay na kavang i Lutan kana lralrak. 	Lutan gives the clothes to the children. 	5	1	A-B	LF	none	VUAB	prsn_sg	NOM	common_def	NOM	common_def	OBL							Elicited
+tu verayay na kavang ni Lutan kana lralrak. 	Lutan gives the clothes to the children. 	5	2	A-B	LF	none	VUAB	prsn_sg	GEN	common_def	NOM	common_def	OBL							Accepted
+tu verayay kana kavang i Lutan kana lralrak. 	Lutan gives the clothes to the children. 	5	1	A-B	LF	none	VUAB	prsn_sg	NOM	common_def	OBL	common_def	OBL							Elicited
+tu verayay na kavang kani Lutan kana lralrak. 	Lutan gives the clothes to the children. 	5	3	A-B	LF	none	VUAB	prsn_sg	OBL	common_def	NOM	common_def	OBL							Rejected
+na Lutan tu verayay da kavang kana lralrak. 	Lutan et al. give clothes to the children. 	5	1	A-B	LF	actor	AVUB	prsn_pl	NOM	common_indf	OBL	common_def	OBL							Elicited
+tu paliding ni Lutan.	This car is Lutan's. 	5	1	none	n/a-POSS	none	PdP									prsn_sg	GEN			Elicited
+tu paliding kani Lutan.	This car is Lutan's. 	5	2	none	n/a-POSS	none	PdP									prsn_sg	OBL			Accepted
+tu paliding i Lutan.	This car is Lutan's. 	5	3	none	n/a-POSS	none	PdP									prsn_sg	NOM			Rejected
+tu paliding na Lutan 	Lutan et al.'s car.	5	1	none	n/a-POSS	none	PdP									prsn_pl	NOM			Elicited
+tu paliding kana Lutan 	Lutan et al.'s car.	5	2	none	n/a-POSS	none	PdP									prsn_pl	OBL			Accepted
+tu adayaw na kuce na suwan.	The shoes were moved by the dog. 	5	1	none	PF	none	VUA	common_def	NOM	common_def	NOM									Elicited
+tu adayaw na kuce kana suwan.	The shoes were moved by the dog. 	5	1	none	PF	none	VUA	common_def	OBL	common_def	NOM									Elicited
+tu adayaw na kuce a suwan.	The shoes were moved by a dog. 	5	1	none	PF	none	VUA	common_indf	NOM	common_def	NOM									Elicited
+tu adayaw na kuce da suwan.	The shoes were moved by a dog. 	5	2	none	PF	none	VUA	common_indf	OBL	common_def	NOM									Accepted
+nintu/nintaw dusiya i Lutan. 	The car is Lutan's. 	2	1	none	n/a-POSS	none	PdP									prsn_sg	NOM			Elicited
+nintu/nintaw dusiya kani Lutan. 	The car is Lutan's. 	2	3	none	n/a-POSS	none	PdP									prsn_sg	OBL			Rejected
+tu dusiya i Lutan. 	The car is Lutan's. 	2	1	none	n/a-POSS	none	PdP									prsn_sg	NOM			Elicited
+tu dusiya ni Lutan. 	The car is Lutan's. 	2	2	none	n/a-POSS	none	PdP									prsn_sg	GEN			Accepted
+tu dusiya kani Lutan. 	The car is Lutan's. 	2	2	none	n/a-POSS	none	PdP									prsn_sg	OBL			Accepted
+pated da saya a tigami i Simuy kani Pusang.  	Simuy sent a letter to Pusang. 	1	1	A-B	AF	none	VUAB	prsn_sg	NOM	prsn_sg	OBL									Elicited
+pated da saya a tigami kani Pusang i Simuy. 	Simuy sent a letter to Pusang. 	1	1	A-B	AF	none	VUBA	prsn_sg	NOM	prsn_sg	OBL									Elicited
+pated da saya a pawkon i Simuy palru i Dipung.	Simuy sent a package to Japan. 	1	1	none	AF	none	VUAL	prsn_sg	NOM					loc	LOC					Elicited
+pated da saya a pawkon i Simuy mukuwa i Dipung.	Simuy sent a package to Japan. 	1	1	none	AF	none	VUAVL	prsn_sg	NOM					loc	LOC					Elicited
+tu pateday na pawkon i Dipung i Simuy.	Simuy sent a package to Japan. 	1	1	none	LF	none	VULA	prsn_sg	NOM					loc	LOC					Elicited
+tu tengeday i Lutan? 	Did he beat Lutan?	1	1	A-U	LF	none	VU			prsn_sg	NOM									Elicited
+tu vususaw i tainataw i Simuy mukuwa lra cemima'a da tiwungan. 	Simuy lied to her mother that she was going to buy meat. 	1	1	A-U	PF	none	VUAX	prsn_sg	NOM	prsn_sg	NOM									Elicited
+pauwa i Valraka temakesiya i Lutan. 	(He) let Lutan study in the US.	1	1	A-U	AF	none	VLXU			prsn_sg	NOM			loc	LOC					Elicited
+pauwa i Valraka temakesiya kani Lutan i malri	The father let Lutan study in the US.	1	1	A-U	AF	none	VLXUA	prsn_sg	NOM	prsn_sg	OBL			loc	LOC					Elicited
+tu kikurangay na kurang di ipuwa kana ara (savak). 	The vegetables were picked, and then they were put into the basket. 	1	1	none	LF	none	VUX			common_def	NOM									Elicited
+tu puwanay na siauw kana tu i nani. 	Mom puts the dish on the table. 	1	1	none	LF	none	VULA	prsn_sg	NOM	common_def	NOM			common_def	OBL					Elicited
+tu puwanay i nani na siauw kana tu. 	Mom puts the dish on the table. 	1	1	none	LF	none	VAUL	prsn_sg	NOM	common_def	NOM			common_def	OBL					Elicited
+tu paverayanay da kare'alriyan na paisu kani Lutan. 	He made Lutan pay for his lunch. (He caused Lutan to give him lunch money.)	1	1	A-U	CF	none	VTU			prsn_sg	OBL							common_indf	OBL	Elicited
+tu reve'aw lra na rumaruma' na ngunin. 	The earthquake knocked down the house. 	1	1	none	PF	none	VUA	common_def	NOM	common_def	NOM									Elicited
+tu reve'aw lra na ngunin na rumaruma'. 	The earthquake knocked down the house. 	1	1	none	PF	none	VAU	common_def	NOM	common_def	NOM									Elicited
+tu reve'aw lra kana ngunin na rumaruma'. 	The earthquake knocked down the house. 	1	1	none	PF	none	VAU	common_def	OBL	common_def	NOM									Elicited
+tu pakavekasaw kani Simuy a saya tuki i Lutan. 	Lutan made Simuy run for an hour. 	1	1	A-U	PF	none	VUXA	prsn_sg	NOM	prsn_sg	OBL									Elicited
+nguwayan a saya tuki mu, tu pavekasaw kani Simuy i Lutan. 	An hour ago, Lutan made Simuy run. 	1	1	A-U	PF	other	XVUA	prsn_sg	NOM	prsn_sg	OBL									Elicited
+pakarun kani Pusang i Lutan pulralranga demeru kani Umang. 	Lutan asked Pusang to help Umang cook. 	1	1	A-U-B	AF	none	VUAXB	prsn_sg	NOM	prsn_sg	OBL	prsn_sg	OBL	prsn_sg	OBL					Elicited
+tu pakarunay kani Pusang i Lutan pulralranga demeru kani Umang. 	Lutan asked Pusang to help Umang cook. 	1	2	A-U-B	LF	none	VUAXB	prsn_sg	NOM	prsn_sg	OBL	prsn_sg	OBL	prsn_sg	OBL					Accepted
+i Lutan mu, tu pakarunay i Pusang mukuwa pulralranga demeru kani Umang. 	Lutan asked Pusang to go help Umang cook. 	1	1	A-U-B	LF	actor	AVUVXB	prsn_sg	NOM	prsn_sg	NOM	prsn_sg	OBL	prsn_sg	OBL					Elicited
+kedemel tu valray na Pusang	The books of Pusang and the other people are thick.	5	1	none	n/a-POSS	none	PrPdP									prsn_pl	NOM			Elicited
+kedemel tu valray kana Pusang	The books of Pusang and the other people are thick.	5	3	none	n/a-POSS	none	PrPdP									prsn_pl	OBL			Rejected
+na Pusang mu kedemel tu valray	The books of Pusang and the other people are thick.	5	2	none	n/a-POSS	possessor	PPrPd									prsn_pl	NOM			Accepted
+kedemel tu valray ni Pusang	Pusang's book is thick	5	1	none	n/a-POSS	none	PrPdP									prsn_sg	GEN			Elicited
+kedemel tu valray i Pusang	Pusang's book is thick	5	1	none	n/a-POSS	none	PrPdP									prsn_sg	NOM			Elicited
+kedemel tu valray kani Pusang	Pusang's book is thick	5	1	none	n/a-POSS	none	PrPdP									prsn_sg	OBL			Elicited
+tu valray na Pusang mu kedemel	The books of Pusang and the other people are thick.	5	2	none	n/a-POSS	possessor-possessed	PdPPr									prsn_pl	NOM			Accepted
+i Pusang mu kedemel tu valray	Pusang's book is thick.	5	1	none	n/a-POSS	possessor	PPrPd									prsn_sg	NOM			Elicited
+ni Pusang mu kedemel tu valray	Pusang's book is thick.	5	3	none	n/a-POSS	possessor	PPrPd									prsn_sg	GEN			Rejected
+kani Pusang mu kedemel tu valray	Pusang's book is thick.	5	3	none	n/a-POSS	possessor	PPrPd									prsn_sg	OBL			Rejected
+tu tengeday i Lutan 	Lutan hit him/her.	5	2	A-U	LF	none	VA	prsn_sg	NOM											Accepted
+kitenged i Lutan	Lutan was hit.	5	2	A-U	PASS	none	VU			prsn_sg	NOM									Accepted
+kemakarac na unan kana suwan	The snake bit the dog.	5	1	A-U	AF	none	VAU	common_def	NOM	common_def	OBL									Elicited
+kemakarac na unan na suwan	The snake bit the dog.	5	3	A-U	AF	none	VAU	common_def	NOM	common_def	NOM									Rejected
+tu vurukaw i Lutan	He let Lutan leave.	5	1	A-U	PF	none	VU			prsn_sg	NOM									Elicited
+tu tengeday i Lutan	He was hit by Lutan.	4	2	A-U	LF	none	VA	prsn_sg	NOM											Accepted
+tu tengeday i Lutan ni Simuy	Lutan was hit by simuy.	4	2	A-U	LF	none	VUA	prsn_sg	GEN	prsn_sg	NOM									Accepted
+i Simuy mu tu tengeday i Lutan	Simuy was hit by Lutan.	4	2	A-U	LF	undergoer	UVA	prsn_sg	NOM	prsn_sg	NOM									Accepted
+ni Simuy mu tu tengeday i Lutan	Simuy was hit by Lutan.	4	3	A-U	LF	undergoer	UVA	prsn_sg	NOM	prsn_sg	GEN									Rejected
+na unan mu kemakarac kana suwan	The snake bit the dog.	4	2	A-U	AF	actor	AVU	common_def	NOM	common_def	OBL									Accepted
+na unan mu kemakarac na suwan	The snake bit the dog.	4	2	A-U	AF	actor	AVU	common_def	NOM	common_def	NOM									Accepted
+tu karacaw na unan na suwan	The snake bit the dog.	4	2	A-U	PF	none	VAU	common_def	NOM	common_def	NOM									Accepted
+tu karacaw na unan kana suwan	The snake bit the dog.	4	3	A-U	PF	none	VAU	common_def	NOM	common_def	OBL									Rejected
+tu vurukaw i Lutan	Lutan let him leave./*He let Lutan leave.	4	1	A-U	PF	none	VA	prsn_sg	NOM											Elicited
+tu vurukaw na cau i Lutan	Someone chased away Lutan.	4	1	A-U	PF	none	VAU	common_def	NOM	prsn_sg	NOM									Elicited
+na suwan 'ema'evang da tutus	The dog is chasing the mouse.	4	1	A-U	AF	actor	AVU	common_def	NOM	common_indf	OBL									Elicited
+na suwan 'ema'evang na tutus	The dog is chasing the mouse.	4	2	A-U	AF	actor	AVU	common_def	NOM	common_def	NOM									Accepted
+na suwan 'ema'evang a tutus	The dog is chasing the mouse.	4	2	A-U	AF	actor	AVU	common_def	NOM	common_indf	NOM									Accepted
+na suwan 'ema'evang da tutus	The dog is chasing the mouse.	4	2	A-U	AF	actor	AVU	common_def	NOM	common_indf	OBL									Accepted
+ema'evang na suwan a tutus	The dog is chasing the mouse.	4	2	A-U	AF	none	VAU	common_def	NOM	common_indf	NOM									Accepted
+ema'evang na suwan kana tutus	The dog is chasing the mouse.	4	1	A-U	AF	none	VAU	common_def	NOM	common_def	OBL									Elicited
+ema'evang na suwan da tutus	The dog is chasing the mouse.	4	3	A-U	AF	none	VAU	common_def	NOM	common_indf	OBL									Rejected
+ema'evang na suwan na tutus	The dog is chasing the mouse.	4	3	A-U	AF	none	VAU	common_def	NOM	common_def	NOM									Rejected
+na pa'alrup ma'alrup da vavuy	The hunter is hunting a/the pig.	4	1	A-U	AF	actor	AVU	common_def	NOM	common_indf	OBL									Elicited
+na pa'alrup ma'alrup na vavuy	The hunter is hunting a/the pig.	4	2	A-U	AF	actor	AVU	common_def	NOM	common_def	NOM									Accepted
+ma'alrup da vavuy na pa'alrup	The hunter is hunting a/the pig.	4	1	A-U	AF	none	VUA	common_def	NOM	common_indf	OBL									Elicited
+na vavuy tu avangaw na pa'alrup	The boar was caught by the hunter.	4	1	A-U	PF	undergoer	UVA	common_def	NOM	common_def	NOM									Elicited
+tu avangaw na pa'alrup na vavuy	The boar was caught by the hunter.	4	2	A-U	PF	none	VAU	common_def	NOM	common_def	NOM									Accepted
+kikarac na suwan kana unan	The dog was bit by the snake	5	1	A-U	PASS	none	VUA	common_def	OBL	common_def	NOM									Elicited
+tu karacaw na unan kana suwan	The snake bit the dog.	5	1	A-U	PF	none	VAU	common_def	NOM	common_def	OBL									Elicited
+kemarac na suwan kana unan	The dog bit the snake	5	1	A-U	AF	none	VAU	common_def	NOM	common_def	OBL									Elicited
+tu karacaw na unan na suwan	The dog bit the snake.	5	2	A-U	PF	none	VUA	common_def	NOM	common_def	NOM									Accepted
+tu karacaw na unan 	The snake bit (something)./It is the snake that bit (it).	5	1	none	PF	none	VA	common_def	NOM											Elicited
+na unan kikarac kana suwan 	The snake was bit by the dog.	5	1	A-U	PASS	undergoer	UVA	common_def	OBL	common_def	NOM									Elicited
+na suwan tu karacaw na unan 	The dog bit the snake.	5	1	A-U	PF	actor	AVU	common_def	NOM	common_def	NOM									Elicited
+idu na unan kemakarac kanidu na suwan	That snake is biting the dog.	5	1	A-U	AF	actor	AVU	common_def	NOM	common_def	OBL									Elicited
+idu na unan kemakarac idu na suwan	That snake is biting the dog.	5	3	A-U	AF	actor	AVU	common_def	NOM	common_def	NOM									Rejected
+na suwan kikakarac kana unan	The dog was bitten by the snake.	5	1	A-U	PASS	undergoer	UVA	common_def	OBL	common_def	NOM									Elicited
+na vulraw tu akanaw na Umang 	Umang and those with him ate fish.	5	1	A-U	PF	undergoer	UVA	prsn_pl	NOM	common_def	NOM									Elicited
+na pararawa tu kuwangaw na vavuy	The hunter is hunting the boar with a gun.	5	1	none	PF	actor	AVU	common_def	NOM	common_def	NOM									Elicited
+tu kuwangaw na vavuy na pararawa	The hunter is hunting the boar with a gun.	5	1	none	PF	none	VUA	common_def	NOM	common_def	NOM									Elicited
+i Pusang temenged i Simuy	Pusang hit Simuy	5	3	A-U	AF	actor	AVU	prsn_sg	NOM	prsn_sg	NOM									Rejected
+i Pusang temenged kani Simuy	Pusang hit Simuy	5	1	A-U	AF	actor	AVU	prsn_sg	NOM	prsn_sg	OBL									Elicited
+tu pinacayaw na Umang (idu) na cumay	The bear killed Umang and those with him (make them die).	5	1	A-U	PF	none	VUA	common_def	NOM	prsn_pl	NOM									Elicited
+na Umang tu pinacayaw na cumay	Umang and those with him killed the bear (make them die).	5	1	A-U	PF	actor	AVU	prsn_pl	NOM	common_def	NOM									Elicited
+tu pinacayaw na cumay na Umang 	Umang and those with him killed the bear (make them die).	5	1	A-U	PF	none	VUA	prsn_pl	NOM	common_def	NOM									Elicited
+tu pinacayaw na cumay 	The bear was caused to die.	5	1	A-U	PF	none	VU			common_def	NOM									Elicited
+mekan kana vulraw na ngiyaw	Cats eat fish.	5	1	A-U	AF	none	VUA	common_def	NOM	common_def	OBL									Elicited
+mekan da vulraw na ngiyaw	Cats eat fish.	5	1	A-U	AF	none	VUA	common_def	NOM	common_indf	OBL									Elicited
+mucalacalaw tu maca na cau 	Human eyes are round.	5	1	none	n/a-POSS	none	PrPdP									common_def	NOM			Elicited
+tu pakanay na hung 	He fed the cow.	5	1	A-U	LF	none	VB					common_def	NOM							Elicited
+na hung tu pakanay 	The cow fed (a person). /*He fed the cow.	5	2	A-U	LF	actor	AV	common_def	NOM											Accepted
+kana Umang mu tu pakananay idu na vulraw	Umang and those with him are feeding fish.  (*He let Umang and those with him have fish.)	2	2	none	CF	actor	AVU	prsn_pl	OBL	common_def	NOM									Accepted
+vulay (idu) na sirusiruvan tu vinan	The wings of the butterfly are beautiful.	2	2	none	n/a-POSS	none	PrPPd									common_def	NOM			Accepted
+vulay tu vinan na sirusiruvan	The wings of the butterfly are beautiful.	2	2	none	n/a-POSS	none	PrPdP									common_def	NOM			Accepted
+vulay tu vinan kana sirusiruvan	The wings of the butterfly are beautiful.	2	2	none	n/a-POSS	none	PrPdP									common_def	OBL			Accepted
+na sirusiruvan mu vulay tu vinan	The wings of the butterfly are beautiful.	2	2	none	n/a-POSS	possessor	PPrPd									common_def	NOM			Accepted
+kana sirusiruvan mu vulay tu vinan	The wings of the butterfly are beautiful.	2	3	none	n/a-POSS	possessor	PPrPd									common_def	OBL			Rejected
+na sirusiruvan tu vinan mu vulay	The wings of the butterfly are beautiful.	2	2	none	n/a-POSS	possessor-possessed	PPdPr									common_def	NOM			Accepted
+vulay tu vinan idu na sirusiruvan	The wings of the butterfly are beautiful.	2	1	none	n/a-POSS	none	PrPdP									common_def	NOM			Elicited
+i Lutan mu uvuruk tu kuwayaw i Simuy	Lutan asked Simuy to leave.	2	1	A-U	PF	actor	AVU	prsn_sg	NOM	prsn_sg	NOM									Elicited
+tu valray na Ciyan mu kedemel	The books of Ciyan and those with her are thick.	2	1	none	n/a-POSS	possessor-possessed	PdPPr									prsn_pl	NOM			Elicited
+tu valray kana Ciyan mu kedemel	The books of Ciyan and those with her are thick.	2	2	none	n/a-POSS	possessor-possessed	PdPPr									prsn_pl	OBL			Accepted
+i Ciyan tu valray mu kedemel  	Ciyan's book is thick.	2	1	none	n/a-POSS	possessor-possessed	PPdPr									prsn_sg	NOM			Elicited
+kana Ciyan mu kedemel tu valray	The books of Ciyan and those with her are thick.	2	3	none	n/a-POSS	possessor	PPdPr									prsn_pl	OBL			Rejected
+na Ciyan mu kedemel tu valray	The books of Ciyan and those with her are thick.	2	2	none	n/a-POSS	possessor	PPrPd									prsn_pl	NOM			Accepted
+a valray ni Ciyan	It is Ciyan's book	2	2	none	n/a-POSS	none	PdP									prsn_sg	GEN			Accepted
+a valray kani Ciyan mu kedemel	Ciyan's book is thick.	2	2	none	n/a-POSS	possessor-possessed	PdPPr									prsn_sg	OBL			Accepted
+a valray ni Ciyan mu kedemel	Ciyan's book is thick.	2	2	none	n/a-POSS	possessor-possessed	PdPPr									prsn_sg	GEN			Accepted
+a valray i Ciyan mu kedemel	Ciyan's book is thick.	2	3	none	n/a-POSS	possessor-possessed	PdPPr									prsn_sg	NOM			Rejected
+i Ciyan a valray mu kedemel	Ciyan's book is thick.	2	3	none	n/a-POSS	possessor-possessed	PPdPr									prsn_sg	NOM			Rejected
+i Ciyan na valray mu kedemel	Ciyan's book is thick.	2	3	none	n/a-POSS	possessor-possessed	PPdPr									prsn_sg	NOM			Rejected
+i Ciyan mu tu valray kedemel	Ciyan's book is thick.	2	1	none	n/a-POSS	possessor	PPdPr									prsn_sg	NOM			Elicited
+tu valray i Ciyan (mu) kedemel	Ciyan's book is thick.	2	1	none	n/a-POSS	possessor-possessed	PdPPr									prsn_sg	NOM			Elicited
+na valray kani Ciyan mu kedemel	Ciyan's book is thick.	2	3	none	n/a-POSS	possessor-possessed	PdPPr									prsn_sg	OBL			Rejected
+na valray ni Ciyan mu kedemel	Ciyan's book is thick.	2	3	none	n/a-POSS	possessor-possessed	PdPPr									prsn_sg	GEN			Rejected
+na valray i Ciyan mu kedemel	Ciyan's book is thick.	2	3	none	n/a-POSS	possessor-possessed	PdPPr									prsn_sg	NOM			Rejected
+kikarac kana 'alrivacenan idu na suwan 	The bee stung the dog.	2	1	none	PASS	none	VAU	common_def	OBL	common_def	NOM									Elicited
+kemakarac na 'alrivacenan kana suwan	The bee is stinging the dog.	2	1	none	AF	none	VAU	common_def	NOM	common_def	OBL									Elicited
+kemakarac na 'alrivacenan na suwan	The bee is stinging the dog.	2	3	none	AF	none	VAU	common_def	NOM	common_def	NOM									Rejected
+kemakarac na 'alrivacenan a suwan	The bee is stinging the dog.	2	3	none	AF	none	VAU	common_def	NOM	common_indf	NOM									Rejected
+i Umang mu tu kuwangaw na cumay 	Umang killed that/the bear.	2	1	none	PF	actor	AVU	prsn_sg	NOM	common_def	NOM									Elicited
+tu kuwangaw i Umang na cumay	Umang killed that/the bear.	2	1	none	PF	none	VAU	prsn_sg	NOM	common_def	NOM									Elicited
+na Pusang mena'u  	Pusang and those with him saw (something...)  (*He saw Pusang and those with him.)	2	2	A-U	AF	actor	AV	prsn_pl	NOM											Accepted
+kana Pusang mena'u	Intended: He saw Pusang and those with him.	2	3	A-U	AF	actor	AV	prsn_pl	OBL											Rejected
+na unan tu velranganay na suwan	The snake chased the dog.	2	1	A-U	CF	actor	AVU	common_def	NOM											Elicited
+tu velranganay na suwan na unan	The dog chased the snake.	2	2	A-U	CF	none	VAU	common_def	NOM	common_def	NOM									Accepted
+tu velranaganay na unan na suwan	The snake chased the dog.	2	2	A-U	CF	none	VAU	common_def	NOM	common_def	NOM									Accepted
+ini na vavayan mu tu verayay a walru kanini na alrak	This woman took the candy for the child.	2	1	A-B	LF	actor	AVUB	common_def	NOM	common_indf	NOM	common_def	NOM							Elicited
+ini na vavayan mu tu verayay a walru ini na alrak	This woman took the candy for the child.	2	3	A-B	LF	actor	AVUB	common_def	NOM	common_indf	NOM	common_def	NOM							Rejected
+a walru tu verayay idu na vavayan kanini na alrak	This woman took the candy for the child.	2	3	A-B	LF	undergoer	UVAB	common_def	NOM	common_indf	NOM	common_def	NOM							Rejected
+i ina cemacuwalr kana 'alrevan	The mother is opening the door.	3	2	none	AF	actor	AVU	prsn_sg	NOM	common_def	OBL									Accepted
+i ina cemacuwalr na 'alrevan	The mother is opening the door.	3	3	none	AF	actor	AVU	prsn_sg	NOM	common_def	NOM									Rejected
+i ina cemacuwalr da 'alrevan	The mother is opening the door.	3	2	none	AF	actor	AVU	prsn_sg	NOM	common_indf	OBL									Accepted
+i ina cemacuwalr a 'alrevan	The mother is opening the door.	3	3	none	AF	actor	AVU	prsn_sg	NOM	common_indf	NOM									Rejected
+kedemel tu valray na Pusang	The books of Pusang and his family are thick.	3	2	none	n/a-POSS	none	PrPdP									prsn_pl	NOM			Accepted
+kedemel tu valray kana Pusang	The books of Pusang and his family are thick.	3	2	none	n/a-POSS	none	PrPdP									prsn_pl	OBL			Accepted
+kedemel tu valray i Pusang	Pusang's book is thick.	3	1	none	n/a-POSS	none	PrPdP									prsn_sg	NOM			Elicited
+na Pusang mu kedemel nantu valray	The books of Pusang and his family are thick	3	1	none	n/a-POSS	possessor	PPrPd									prsn_pl	NOM			Elicited
+kana Pusang mu kedemel nantu valray	The books of Pusang and his family are thick	3	3	none	n/a-POSS	possessor	PPrPd									prsn_pl	OBL			Rejected
+dangdarang tu uncan ni Pusang	Pusang's nose is red.	3	1	none	n/a-POSS	none	PrPdP									prsn_sg	GEN			Elicited
+dangdarang tu valray i Pusang	Pusang's book is red.	3	1	none	n/a-POSS	none	PrPdP									prsn_sg	NOM			Elicited
+dangdarang tu valray ni Pusang	Pusang's book is red.	3	2	none	n/a-POSS	none	PrPdP									prsn_sg	GEN			Accepted
+dangdarang tu valray kani Pusang	Pusang's book is red.	3	3	none	n/a-POSS	none	PrPdP									prsn_sg	OBL			Rejected
+i Simuy mu tu tengeday i Lutan	Simuy hit Lutan. (*Simuy was hit by Lutan)	3	2	A-U	LF	actor	AVU	prsn_sg	NOM	prsn_sg	NOM									Accepted
+ni Simuy mu tu tengeday i Lutan	Simuy hit Lutan. (*Simuy was hit by Lutan)	3	3	A-U	LF	actor	AVU	prsn_sg	GEN	prsn_sg	NOM									Rejected
+tu tengeday i Lutan i Simuy	Intend: Simuy was hit by Lutan.	3	3	A-U	LF	none	VAU	prsn_sg	NOM	prsn_sg	NOM									Rejected
+tu tengeday i Lutan ni Simuy	Intend: Simuy was hit by Lutan.	3	3	A-U	LF	none	VAU	prsn_sg	NOM	prsn_sg	GEN									Rejected
+(ini) na suwan ma'evang kana tutus	That/The dog is chasing the mouse.	3	2	A-U	AF	actor	AVU	common_def	NOM	common_def	OBL									Accepted
+(ini) na suwan ma'evang na tutus	That/The dog is chasing the mouse.	3	3	A-U	AF	actor	AVU	common_def	NOM	common_def	NOM									Rejected
+Dipung tu 'aliyan na sinsi	The friend of the teacher is Japanese.	3	1	P-Pd	n/a-POSS	none	PrPdP									common_def	NOM			Elicited
+na suwan tu capi'anay na ngiyaw	The dog kicked the cat.	3	1	A-U	CF	actor	AVU	common_def	NOM	common_def	NOM									Elicited
+tu capi'anay na ngiyaw na suwan	Intend: The dog kicked the cat.	3	3	A-U	CF	none	VUA	common_def	NOM	common_def	NOM									Rejected
+vulay tu pakpak (ini) na ayam	The bird's wings are beautiful.	3	1	none	n/a-POSS	none	PrPdP									common_def	NOM			Elicited
+vulay tu pakpak kana ayam	The bird's wings are beautiful.	3	1	none	n/a-POSS	none	PrPdP									common_def	OBL			Elicited
+idu na cau (mu) mukuwa maateda kani Lutan i Taihok	That person sent Lutan to Taipei. (drive Lutan to Taipei)	3	1	A-U	AF	actor	AVVUL	common_def	NOM	prsn_sg	OBL			loc	LOC					Elicited
+idu na cau mu mukuwa i Taihok maateda kani Lutan	That person sent Lutan to Taipei. (drive Lutan to Taipei)	3	2	A-U	AF	actor	AVLVU	common_def	NOM	prsn_sg	OBL			loc	LOC					Accepted
+idu na cau (mu) maated kani Lutan mukuwa i Taihok	That person sent Lutan to Taipei. (drive Lutan to Taipei)	3	2	A-U	AF	actor	AVUVL	common_def	NOM	prsn_sg	OBL			loc	LOC					Accepted
+idu na kakias ma'avang kana ngangalaw	That frog caught a fly	3	1	none	AF	actor	AVU	common_def	NOM	common_def	OBL									Elicited
+idu na kakias mu tu ekanaw lra na ngangalaw	That frog ate a fly.	3	1	none	PF	actor	AVU	common_def	NOM	common_def	NOM									Elicited
+idu na kakias mu tu 'avangaw na ngangalaw	That frog caught a fly.	3	2	none	PF	actor	AVU	common_def	NOM	common_def	NOM									Accepted
+idu na kakias mu tu 'avangaw da ngangalaw	That frog caught a fly.	3	3	none	PF	actor	AVU	common_def	NOM	common_indf	OBL									Rejected
+idu na kakias mu tu 'avangaw a ngangalaw	That frog caught a fly.	3	3	none	PF	actor	AVU	common_def	NOM	common_indf	NOM									Rejected
+na suwan (mu) venalarelrang kana ngiyaw	The dog is chasing the cat. 	3	1	A-U	AF	actor	AVU	common_def	NOM	common_def	OBL									Elicited
+ini na vavayan tu verayay a walru idu na alrak	That woman gave the child candy.	3	2	A-B	LF	actor	AVUB	common_def	NOM	common_indf	NOM	common_def	NOM							Accepted
+ini na vavayan tu verayay a walru kanidu na alrak	That woman gave the child candy.	3	2	A-B	LF	actor	AVUB	common_def	NOM	common_indf	NOM	common_def	NOM							Accepted
+i Lutan tu tengeday idu na vavayan tu lima	Lutan hit the woman's hand.	3	1	A-P	LF-UPOSS	actor	AVPPd	prsn_sg	NOM	possessed						common_def	NOM			Elicited
+i Pusang tu tengeday tu lima idu na vavayan	Pusang hit the woman's hand.	3	1	A-P	LF-UPOSS	actor	AVPdP	prsn_sg	NOM	possessed						common_def	NOM			Elicited
+tu tengeday idu na vavayan tu lima i Pusang	Intended: Pusang hit the woman's hand.	3	3	A-P	LF-UPOSS	none	VPPdA	prsn_sg	NOM	possessed						common_def	NOM			Rejected
+na ungay mu tu kulukulungaw na varasa' kemay kana henan	The monkey rolled the stone down the hill.	3	1	none	PF	actor	AVUL	common_def	NOM	common_def	NOM			common_def	OBL					Elicited
+na ungay kemay kana henan kemulukulung kana varasa'	The monkey rolled the stone down the hill.	3	1	none	AF	actor, location	ALVU	common_def	NOM	common_def	OBL			common_def	OBL					Elicited
