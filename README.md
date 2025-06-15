@@ -48,7 +48,7 @@ This dataset contains 377 sentences collected from 5 speakers of the Kasavakan d
 | AV        | Actor – Verb                                                  |
 | AVBU      | Actor – Verb – Beneficiary – Undergoer                        |
 | AVPdP     | Actor – Verb – Possessed – Possessor                          |
-| AVPPd     | Actor – Verb – Predicate – Possessed                          |
+| AVPPd     | Actor – Verb – Possessor – Possessed                          |
 | AVUVL     | Actor – Verb – Undergoer – Verb – Location                    |
 | AVUL      | Actor – Verb – Undergoer – Location                           |
 | AVVUL     | Actor – Verb – Verb – Undergoer – Location                    |
@@ -63,8 +63,8 @@ This dataset contains 377 sentences collected from 5 speakers of the Kasavakan d
 | PdPVAB    | Possessed – Possessor – Verb – Actor – Beneficiary            |
 | PdPVBA    | Possessed – Possessor – Verb – Beneficiary – Actor            |
 | PPrPd     | Possessor – Predicate – Possessed                             |
-| PPd       | Predicate – Possessed                                         |
-| PPdPr     | Predicate – Possessed – Predicate                             |
+| PPd       | Possessor – Possessed                                         |
+| PPdPr     | Possessor – Possessed – Predicate                             |
 | PrPdP     | Predicate – Possessed – Possessor                             |
 | PrPPd     | Predicate – Possessor – Possessed                             |
 | UVA       | Undergoer – Verb – Actor                                      |
@@ -94,11 +94,11 @@ This dataset contains 377 sentences collected from 5 speakers of the Kasavakan d
 
 | Value       | Meaning                      |
 |-------------|------------------------------|
-| common_def  | Definite common              |
-| common_indf | Indefinite common            |
-| prsn_sg     | Singular personal            |
-| prsn_pl     | Plural personal              |
-| possessed   | Possessed -> no marker       |
+| common_def  | Common definite              |
+| common_indf | Common indefinite            |
+| prsn_sg     | Personal singular            |
+| prsn_pl     | Personal plural              |
+| possessed   | Possessed → no marker       |
 | n/a         | Not applicable               |
 
 
